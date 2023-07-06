@@ -1,4 +1,4 @@
-normie human ping
+mid human ping
 ```
 {
   fullName: Kiambuthi Kinuthia,
