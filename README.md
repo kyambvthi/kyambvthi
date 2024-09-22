@@ -1,8 +1,8 @@
-mid human ping
 ```
 {
   fullName: Kiambuthi Kinuthia,
   sex: male,
-  languages: swahili, english
+  languages: swahili, english,
+  hobbies: making, playing
 }
 ```
